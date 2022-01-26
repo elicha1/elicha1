@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aicha
+- 👋 Hi, I’m @aichaBouichou
 - 👀 I’m interested in blockchain technology and smart contract dev
 - 🌱 I’m currently learning Rust and solidity
 - 💞️ I’m looking to collaborate on project that are smart contract related 
